@@ -1,4 +1,4 @@
-package org.matveyvs;
+package org.matveyvs.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

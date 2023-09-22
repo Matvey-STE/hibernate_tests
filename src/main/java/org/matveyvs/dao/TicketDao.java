@@ -2,7 +2,7 @@ package org.matveyvs.dao;
 
 import org.hibernate.HibernateException;
 import org.hibernate.cfg.Configuration;
-import org.matveyvs.Ticket;
+import org.matveyvs.entity.Ticket;
 
 
 public class TicketDao {
